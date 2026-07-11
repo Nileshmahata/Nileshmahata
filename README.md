@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="ChatGPT Image Jul 11, 2026, 11_42_40 AM.png" alt="Nilesh Mahata GitHub Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Nilesh Mahata</h1>
 
 <h3 align="center">
