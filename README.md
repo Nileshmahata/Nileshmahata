@@ -1,67 +1,127 @@
+<h1 align="center">Hi 👋, I'm Nilesh Mahata</h1>
 
-# 👋 Hey, I'm Nilesh!
+<h3 align="center">
+Data Engineer | Banking Analytics | Oracle SQL | ETL | Python
+</h3>
 
-Welcome to my GitHub! I’m a **Data Analyst** passionate about turning raw data into actionable insights that drive business success. Whether it’s **Sales Analytics**, **Business Intelligence**, or **Financial Reporting**, I love helping organizations harness the power of data to solve complex problems. 🚀📊
-
-## 🧠 Who Am I?
-
-- 💼 **Current Role**: Aspiring **Data Analyst** | Exploring **Data Visualization** and **Financial Analytics**
-- 📚 **Learning**: Excel, Power BI, SQL, Python
-- 💡 **I’m Passionate About**: Making sense of data to uncover trends, improve processes, and optimize business strategies
-- 🌍 **Fun Fact**: I’m always up for a new challenge – whether it’s learning a new tool or tackling a tricky dataset!
+<p align="center">
+Building reliable data pipelines and transforming enterprise data into trusted business insights.
+</p>
 
 ---
 
-## 📈 What I’m Working On
+## 👨‍💻 About Me
 
-🚀 **I’m currently working on some cool projects!** Here's a peek at my most exciting ones:
+I'm a **Data Engineer** with hands-on experience building and maintaining enterprise ETL pipelines for the banking industry.
 
-### 🛒 [Sales & Finance Reports for AtliQ Hardware](https://github.com/Nileshmahata/Sales-Finance-Reports-for-AtliQ-Hardware)
-Helping AtliQ Hardware optimize its sales strategies and financial health with deep-dive reports on **customer performance**, **market trends**, and **P&L analysis**. All insights to empower decision-makers and fuel growth!
-- **Skills**:  Excel (Pivot Tables, Power Query), Basic DAX
-### 🛒 [Business_Insgihts_360](https://github.com/Nileshmahata/Business_Insgihts_360)
-This project focuses on creating an interactive Power BI dashboard to analyze key business metrics and provide actionable insights for strategic decision-making. It showcases advanced data visualization techniques to evaluate performance and unlock growth opportunities.!
-- **Skills**: Power BI, DAX, Power Query, SQL
+Currently working with large-scale Oracle databases, PL/SQL, and SAS DI Studio to support production-grade data workflows and analytics. Alongside my day-to-day work, I'm continuously learning modern Data Engineering technologies such as Apache Spark, Airflow, dbt, Docker, Kafka, and AWS.
+
+I enjoy designing efficient data pipelines, optimizing SQL queries, automating repetitive processes, and solving complex data engineering challenges.
 
 ---
 
-## 🛠️ My Tech Toolbox
+## 🎯 Current Focus
 
-I work with a variety of tools to bring data to life. Here’s what’s in my arsenal:
-
-- **Data Analysis & Visualization**: Power BI, Excel
-- **Programming & Data Processing**: Python, SQL, C
-- **ETL & Data Modeling**: Power Query, Power Pivot, DAX
-- **Version Control**: Git, GitHub
-
----
-
-## 🌟 My Achievements
-
-🎓 **Completed Data Visualization Program** with **Forage** in collaboration with **TATA**  
-💼 **FMCG Sales Analytics Project**: Optimized business sales strategies with in-depth Excel and Power BI reports  
-🛠️ **Learning Git & GitHub**: Building my version control expertise for better collaboration and project management
+- Building production-ready Data Engineering projects
+- Apache Spark & PySpark
+- Apache Airflow
+- dbt
+- Docker
+- Kafka
+- AWS Data Engineering
+- CI/CD with GitHub Actions
 
 ---
 
-## 🌍 Let's Connect!
+# 🛠 Tech Stack
 
-I’m always excited to collaborate on data-driven projects, share knowledge, and learn from others. Whether you’re interested in **data analytics**, **business insights**, or just want to chat about the power of data – feel free to connect!
+### Languages
 
-🔗 **You can find me on**:  
-- [LinkedIn](https://www.linkedin.com/in/nilesh-mahata-49389a1a5/)  
-- [Twitter](https://x.com/NileshMahato)   
-- [Email](nileshmahato363@gmail.com)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Data Engineering
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+### Database
+
+![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
+# 💼 Professional Experience
 
-## 🚀 Fun Quotes to Keep You Inspired
+**Data Engineer**
 
-*“Data is the new oil, but like oil, it needs to be refined to be useful.”* – Clive Humby  
-*“In God we trust, all others bring data.”* – W. Edwards Deming
+🏦 Banking Analytics
+
+- Enterprise ETL Development
+- Oracle SQL & PL/SQL
+- SAS DI Studio
+- Data Validation
+- Data Quality
+- ETL Monitoring
+- SQL Optimization
+- Production Support
 
 ---
 
-👨‍💻 **Let’s turn data into decisions!**  
-📈 **Happy analyzing!** 💡
+# 📚 Currently Learning
+
+- Apache Spark
+- Airflow
+- dbt
+- Docker
+- Kafka
+- AWS
+- Snowflake
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Nileshmahata&show_icons=true&theme=github_dark&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nileshmahata&theme=github-dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nileshmahata&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| Data Engineering Pipeline | End-to-End ETL Pipeline |
+| Airflow ETL | Workflow Orchestration |
+| SQL Optimization | Production SQL Queries |
+| Spark ETL | Big Data Processing |
+| Data Warehouse | Star Schema Implementation |
+| Banking Analytics | Enterprise Data Engineering |
+
+---
+
+# 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nileshmahata/)
+
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:nileshmahato363@gmail.com)
+
+---
+
+> **"Reliable data isn't collected by chance—it's engineered."**
+
+![](https://komarev.com/ghpvc/?username=Nileshmahata&style=for-the-badge)
